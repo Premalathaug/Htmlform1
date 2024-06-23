@@ -1,0 +1,65 @@
+
+form{
+    width: 100%;
+    max-width: 600px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding: 2rem;
+    
+   background-color: blanchedalmond;
+    
+
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    
+  }
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+.like{
+    
+    table-layout:auto;
+  width: 100%;
+  border-collapse: collapse;
+
+  tr:nth-child(odd) {
+    background-color: #f2f2f2;
+    
+    
+}}
+
+.purchase{
+    table-layout:auto;
+  width: 100%;
+  border-collapse: collapse;
+  padding-left: 200%;
+  
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+    
+    
+  }}
+  
+
+  tr:nth-child(2){
+    text-align: center;
+  }
+  tr,td{
+    text-align: center;
+  }
+
+  
+  .msg{
+    padding: 12px 12px 12px 0;
+
+    display: inline-block;
+    width: 100%;
+  }
+  
+  
